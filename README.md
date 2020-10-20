@@ -1,5 +1,9 @@
-# pass_gen_Django
+# Pass_Gen_Django
 
-Requirements :
-Python3,
-Django
+A basic tool to generate random passwords.
+<br />
+
+Requirements : Python3, Django
+<br />
+
+
